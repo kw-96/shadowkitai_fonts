@@ -7,8 +7,8 @@
 | 项目 | 值 |
 |------|------|
 | Tag | `v0.2.0` |
-| CDN 基址 | `https://cdn.jsdelivr.net/gh/Finjix/shadowkitai_fonts@v0.2.0/dist/web` |
-| Manifest | `https://cdn.jsdelivr.net/gh/Finjix/shadowkitai_fonts@v0.2.0/meta/manifest.json` |
+| CDN 基址 | `https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/dist/web` |
+| Manifest | `https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/meta/manifest.json` |
 
 ## 可用字体家族
 
@@ -28,7 +28,7 @@
 将 [`shadowkitaiFontLoader.example.ts`](shadowkitaiFontLoader.example.ts) 中的函数复制到主项目，核心代码：
 
 ```ts
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/Finjix/shadowkitai_fonts@v0.2.0/dist/web';
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/dist/web';
 
 function getFamilyStylesheetUrl(familyId: string): string {
   return `${CDN_BASE}/${familyId}/index.css`;
@@ -118,7 +118,7 @@ onMounted(() => {
 ```html
 <!-- 在 <head> 中按需引入 -->
 <link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/Finjix/shadowkitai_fonts@v0.2.0/dist/web/source-han-serif-cn/index.css" />
+      href="https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/dist/web/source-han-serif-cn/index.css" />
 ```
 
 ## 版本更新
