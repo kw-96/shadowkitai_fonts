@@ -6,9 +6,9 @@
 
 | 项目 | 值 |
 |------|------|
-| Tag | `v0.2.0` |
-| CDN 基址 | `https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/dist/web` |
-| Manifest | `https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/meta/manifest.json` |
+| Tag | `v1.0` |
+| CDN 基址 | `https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v1.0/dist/web` |
+| Manifest | `https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v1.0/meta/manifest.json` |
 
 ## 可用字体家族
 
@@ -28,7 +28,7 @@
 将 [`shadowkitaiFontLoader.example.ts`](shadowkitaiFontLoader.example.ts) 中的函数复制到主项目，核心代码：
 
 ```ts
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/dist/web';
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v1.0/dist/web';
 
 function getFamilyStylesheetUrl(familyId: string): string {
   return `${CDN_BASE}/${familyId}/index.css`;
@@ -118,11 +118,11 @@ onMounted(() => {
 ```html
 <!-- 在 <head> 中按需引入 -->
 <link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v0.2.0/dist/web/source-han-serif-cn/index.css" />
+      href="https://cdn.jsdelivr.net/gh/kw/shadowkitai_fonts@v1.0/dist/web/source-han-serif-cn/index.css" />
 ```
 
 ## 版本更新
 
 1. 字体库发布新版本时打新 tag（如 `v0.3.0`）。
-2. 主项目中将 `CDN_BASE` 中的 `@v0.2.0` 替换为 `@v0.3.0`。
+2. 主项目中将 `CDN_BASE` 中的 `@v1.0` 替换为 `@v1.1`。
 3. **生产环境必须固定 tag**，不要使用分支名（如 `@main`），因为分支是可移动的，可能导致线上字体加载失败。
