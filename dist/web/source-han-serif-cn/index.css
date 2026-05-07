@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-Bold-2.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-ExtraLight-3.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-Heavy-4.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-Light-5.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-Medium-6.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-Regular-1.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Serif CN';
+  src: url('files/SourceHanSerifCN-SemiBold-7.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}

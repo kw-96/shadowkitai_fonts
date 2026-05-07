@@ -1,0 +1,5 @@
+本目录内字体为 HarmonyOS Sans 字体软件的简体中文版（SC）文件子集。
+使用、复制与分发须遵守华为「HarmonyOS Sans 字体软件许可协议」及官方说明。
+请在收录或更新前查阅华为开发者网站公布的最新条款与授权范围。
+
+说明链接（若变更请以官方为准）：https://developer.harmonyos.com/

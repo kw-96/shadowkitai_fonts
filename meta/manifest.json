@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-06T07:52:46.669567+00:00",
+  "families": [
+    {
+      "id": "source-han-sans-cn",
+      "displayName": "思源黑体 简体",
+      "licenseId": "OFL-1.1",
+      "stylesheet": "source-han-sans-cn/index.css",
+      "weights": [
+        {
+          "sourceFile": "SourceHanSansCN-Bold.otf",
+          "woff2": "files/SourceHanSansCN-Bold.woff2",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-ExtraLight.otf",
+          "woff2": "files/SourceHanSansCN-ExtraLight.woff2",
+          "fontWeight": "200",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-Heavy.otf",
+          "woff2": "files/SourceHanSansCN-Heavy.woff2",
+          "fontWeight": "900",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-Light.otf",
+          "woff2": "files/SourceHanSansCN-Light.woff2",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-Medium.otf",
+          "woff2": "files/SourceHanSansCN-Medium.woff2",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-Normal.otf",
+          "woff2": "files/SourceHanSansCN-Normal.woff2",
+          "fontWeight": "350",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-Regular.otf",
+          "woff2": "files/SourceHanSansCN-Regular.woff2",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSansCN-VF-2.otf",
+          "woff2": "files/SourceHanSansCN-VF-2.woff2",
+          "fontWeight": "100 900",
+          "fontStyle": "normal",
+          "variable": true
+        }
+      ]
+    },
+    {
+      "id": "source-han-serif-cn",
+      "displayName": "思源宋体 简体",
+      "licenseId": "OFL-1.1",
+      "stylesheet": "source-han-serif-cn/index.css",
+      "weights": [
+        {
+          "sourceFile": "SourceHanSerifCN-Bold-2.otf",
+          "woff2": "files/SourceHanSerifCN-Bold-2.woff2",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSerifCN-ExtraLight-3.otf",
+          "woff2": "files/SourceHanSerifCN-ExtraLight-3.woff2",
+          "fontWeight": "200",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSerifCN-Heavy-4.otf",
+          "woff2": "files/SourceHanSerifCN-Heavy-4.woff2",
+          "fontWeight": "900",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSerifCN-Light-5.otf",
+          "woff2": "files/SourceHanSerifCN-Light-5.woff2",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSerifCN-Medium-6.otf",
+          "woff2": "files/SourceHanSerifCN-Medium-6.woff2",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSerifCN-Regular-1.otf",
+          "woff2": "files/SourceHanSerifCN-Regular-1.woff2",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "SourceHanSerifCN-SemiBold-7.otf",
+          "woff2": "files/SourceHanSerifCN-SemiBold-7.woff2",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "root-misans-latin-p1",
+      "displayName": "MiSans Latin",
+      "licenseId": "project-approved",
+      "stylesheet": "root-misans-latin-p1/index.css",
+      "weights": [
+        {
+          "sourceFile": "MiSansLatin-Bold.otf",
+          "woff2": "files/MiSansLatin-Bold.woff2",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Demibold.otf",
+          "woff2": "files/MiSansLatin-Demibold.woff2",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-ExtraLight.otf",
+          "woff2": "files/MiSansLatin-ExtraLight.woff2",
+          "fontWeight": "200",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Heavy.otf",
+          "woff2": "files/MiSansLatin-Heavy.woff2",
+          "fontWeight": "900",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Light.otf",
+          "woff2": "files/MiSansLatin-Light.woff2",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Medium.otf",
+          "woff2": "files/MiSansLatin-Medium.woff2",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Normal.otf",
+          "woff2": "files/MiSansLatin-Normal.woff2",
+          "fontWeight": "350",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Regular.otf",
+          "woff2": "files/MiSansLatin-Regular.woff2",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "root-misans-latin-p2",
+      "displayName": "MiSans Latin",
+      "licenseId": "project-approved",
+      "stylesheet": "root-misans-latin-p2/index.css",
+      "weights": [
+        {
+          "sourceFile": "MiSansLatin-Semibold.otf",
+          "woff2": "files/MiSansLatin-Semibold.woff2",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSansLatin-Thin.otf",
+          "woff2": "files/MiSansLatin-Thin.woff2",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "root-misans-p1",
+      "displayName": "MiSans",
+      "licenseId": "project-approved",
+      "stylesheet": "root-misans-p1/index.css",
+      "weights": [
+        {
+          "sourceFile": "MiSans-Bold.otf",
+          "woff2": "files/MiSans-Bold.woff2",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Demibold.otf",
+          "woff2": "files/MiSans-Demibold.woff2",
+          "fontWeight": "700",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-ExtraLight.otf",
+          "woff2": "files/MiSans-ExtraLight.woff2",
+          "fontWeight": "200",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Heavy.otf",
+          "woff2": "files/MiSans-Heavy.woff2",
+          "fontWeight": "900",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Light.otf",
+          "woff2": "files/MiSans-Light.woff2",
+          "fontWeight": "300",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Medium.otf",
+          "woff2": "files/MiSans-Medium.woff2",
+          "fontWeight": "500",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Normal.otf",
+          "woff2": "files/MiSans-Normal.woff2",
+          "fontWeight": "350",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Regular.otf",
+          "woff2": "files/MiSans-Regular.woff2",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "variable": false
+        }
+      ]
+    },
+    {
+      "id": "root-misans-p2",
+      "displayName": "MiSans",
+      "licenseId": "project-approved",
+      "stylesheet": "root-misans-p2/index.css",
+      "weights": [
+        {
+          "sourceFile": "MiSans-Semibold.otf",
+          "woff2": "files/MiSans-Semibold.woff2",
+          "fontWeight": "600",
+          "fontStyle": "normal",
+          "variable": false
+        },
+        {
+          "sourceFile": "MiSans-Thin.otf",
+          "woff2": "files/MiSans-Thin.woff2",
+          "fontWeight": "400",
+          "fontStyle": "normal",
+          "variable": false
+        }
+      ]
+    }
+  ]
+}

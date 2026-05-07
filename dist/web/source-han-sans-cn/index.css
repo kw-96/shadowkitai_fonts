@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-Heavy.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-Normal.woff2') format('woff2');
+  font-weight: 350;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF, U+3000-303F, U+FF00-FFEF;
+}
+
+@font-face {
+  font-family: 'Source Han Sans CN';
+  src: url('files/SourceHanSansCN-VF-2.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

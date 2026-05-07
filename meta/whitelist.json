@@ -1,0 +1,4297 @@
+{
+  "version": 2,
+  "families": [
+    {
+      "id": "source-han-sans-cn",
+      "displayName": "思源黑体 简体",
+      "licenseId": "OFL-1.1",
+      "sourceSubdir": "source-han-sans-cn/fonts",
+      "script": "cjk",
+      "skipBuild": false
+    },
+    {
+      "id": "source-han-serif-cn",
+      "displayName": "思源宋体 简体",
+      "licenseId": "OFL-1.1",
+      "sourceSubdir": "source-han-serif-cn/fonts",
+      "script": "cjk",
+      "skipBuild": false
+    },
+    {
+      "id": "source-code-pro",
+      "displayName": "Source Code Pro",
+      "licenseId": "OFL-1.1",
+      "sourceSubdir": "source-code-pro/fonts",
+      "script": "none",
+      "skipBuild": false
+    },
+    {
+      "id": "harmonyos-sans-sc",
+      "displayName": "HarmonyOS Sans 简体",
+      "licenseId": "HarmonyOS-Sans",
+      "sourceSubdir": "harmonyos-sans-sc/fonts",
+      "script": "cjk",
+      "skipBuild": false
+    },
+    {
+      "id": "root-265-ssxindongti",
+      "displayName": "265-SSXinDongTi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-265-ssxindongti/fonts",
+      "cssName": "265-SSXinDongTi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-7-7",
+      "displayName": "精品點陣體7×7",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-7-7/fonts",
+      "cssName": "精品點陣體7×7",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-aashisongti",
+      "displayName": "AaShisongti",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-aashisongti/fonts",
+      "cssName": "AaShisongti",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-aatest-non-commercial-use",
+      "displayName": "AaTEST (Non-Commercial Use)",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-aatest-non-commercial-use/fonts",
+      "cssName": "AaTEST (Non-Commercial Use)",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-agency-fb",
+      "displayName": "Agency FB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-agency-fb/fonts",
+      "cssName": "Agency FB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-algerian",
+      "displayName": "Algerian",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-algerian/fonts",
+      "cssName": "Algerian",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-alibaba-health-font-2-0-cn",
+      "displayName": "Alibaba Health Font 2.0 CN",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-alibaba-health-font-2-0-cn/fonts",
+      "cssName": "Alibaba Health Font 2.0 CN",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-alibaba-health-font-2-0-pro",
+      "displayName": "Alibaba Health Font 2.0 Pro",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-alibaba-health-font-2-0-pro/fonts",
+      "cssName": "Alibaba Health Font 2.0 Pro",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-alibaba-health-font-2-0-py",
+      "displayName": "Alibaba Health Font 2.0 PY",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-alibaba-health-font-2-0-py/fonts",
+      "cssName": "Alibaba Health Font 2.0 PY",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-alibaba-health-font2-0braille",
+      "displayName": "Alibaba Health Font2.0Braille",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-alibaba-health-font2-0braille/fonts",
+      "cssName": "Alibaba Health Font2.0Braille",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-alimama-fangyuanti-vf",
+      "displayName": "Alimama FangYuanTi VF",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-alimama-fangyuanti-vf/fonts",
+      "cssName": "Alimama FangYuanTi VF",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-alimama-shuheiti",
+      "displayName": "Alimama ShuHeiTi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-alimama-shuheiti/fonts",
+      "cssName": "Alimama ShuHeiTi",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-aoyagireisyosimo2",
+      "displayName": "aoyagireisyosimo2",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-aoyagireisyosimo2/fonts",
+      "cssName": "aoyagireisyosimo2",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-ar-teyuan2gb-heavy",
+      "displayName": "AR Teyuan2GB Heavy",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-ar-teyuan2gb-heavy/fonts",
+      "cssName": "AR Teyuan2GB Heavy",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-arial-rounded-mt-bold",
+      "displayName": "Arial Rounded MT Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-arial-rounded-mt-bold/fonts",
+      "cssName": "Arial Rounded MT Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-arvo",
+      "displayName": "Arvo",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-arvo/fonts",
+      "cssName": "Arvo",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bauhaus-93",
+      "displayName": "Bauhaus 93",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bauhaus-93/fonts",
+      "cssName": "Bauhaus 93",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bell-mt",
+      "displayName": "Bell MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bell-mt/fonts",
+      "cssName": "Bell MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-berlin-sans-fb",
+      "displayName": "Berlin Sans FB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-berlin-sans-fb/fonts",
+      "cssName": "Berlin Sans FB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-berlin-sans-fb-demi",
+      "displayName": "Berlin Sans FB Demi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-berlin-sans-fb-demi/fonts",
+      "cssName": "Berlin Sans FB Demi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-beta1-1",
+      "displayName": "beta1.1",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-beta1-1/fonts",
+      "cssName": "beta1.1",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bigruixianblackgbv1-0",
+      "displayName": "BigruixianBlackGBV1.0",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bigruixianblackgbv1-0/fonts",
+      "cssName": "BigruixianBlackGBV1.0",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-blackadder-itc",
+      "displayName": "Blackadder ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-blackadder-itc/fonts",
+      "cssName": "Blackadder ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bodoni-mt",
+      "displayName": "Bodoni MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bodoni-mt/fonts",
+      "cssName": "Bodoni MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bodoni-mt-black",
+      "displayName": "Bodoni MT Black",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bodoni-mt-black/fonts",
+      "cssName": "Bodoni MT Black",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bodoni-mt-condensed",
+      "displayName": "Bodoni MT Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bodoni-mt-condensed/fonts",
+      "cssName": "Bodoni MT Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-bodoni-mt-poster-compressed",
+      "displayName": "Bodoni MT Poster Compressed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-bodoni-mt-poster-compressed/fonts",
+      "cssName": "Bodoni MT Poster Compressed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-book-antiqua",
+      "displayName": "Book Antiqua",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-book-antiqua/fonts",
+      "cssName": "Book Antiqua",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-braille",
+      "displayName": "Braille",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-braille/fonts",
+      "cssName": "Braille",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-britannic-bold",
+      "displayName": "Britannic Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-britannic-bold/fonts",
+      "cssName": "Britannic Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-broadway",
+      "displayName": "Broadway",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-broadway/fonts",
+      "cssName": "Broadway",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-brush-script-mt",
+      "displayName": "Brush Script MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-brush-script-mt/fonts",
+      "cssName": "Brush Script MT",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-californian-fb",
+      "displayName": "Californian FB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-californian-fb/fonts",
+      "cssName": "Californian FB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-calisto-mt",
+      "displayName": "Calisto MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-calisto-mt/fonts",
+      "cssName": "Calisto MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-castellar",
+      "displayName": "Castellar",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-castellar/fonts",
+      "cssName": "Castellar",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-century-gothic",
+      "displayName": "Century Gothic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-century-gothic/fonts",
+      "cssName": "Century Gothic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-century-schoolbook",
+      "displayName": "Century Schoolbook",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-century-schoolbook/fonts",
+      "cssName": "Century Schoolbook",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-cktkingkong",
+      "displayName": "CKTKingKong",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-cktkingkong/fonts",
+      "cssName": "CKTKingKong",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-colonna-mt",
+      "displayName": "Colonna MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-colonna-mt/fonts",
+      "cssName": "Colonna MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-cooper-black",
+      "displayName": "Cooper Black",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-cooper-black/fonts",
+      "cssName": "Cooper Black",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-copperplate-gothic-bold",
+      "displayName": "Copperplate Gothic Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-copperplate-gothic-bold/fonts",
+      "cssName": "Copperplate Gothic Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-copperplate-gothic-light",
+      "displayName": "Copperplate Gothic Light",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-copperplate-gothic-light/fonts",
+      "cssName": "Copperplate Gothic Light",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-coure",
+      "displayName": "coure",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-coure/fonts",
+      "cssName": "coure",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-curlz-mt",
+      "displayName": "Curlz MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-curlz-mt/fonts",
+      "cssName": "Curlz MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-dflangmanxue-sc2-w9",
+      "displayName": "DFLangManXue SC2 W9",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-dflangmanxue-sc2-w9/fonts",
+      "cssName": "DFLangManXue SC2 W9",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-dfphaibaow12-gb",
+      "displayName": "DFPHaiBaoW12-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-dfphaibaow12-gb/fonts",
+      "cssName": "DFPHaiBaoW12-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-dfpop1w5-gb",
+      "displayName": "DFPOP1W5-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-dfpop1w5-gb/fonts",
+      "cssName": "DFPOP1W5-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-dfpop2w9-gb",
+      "displayName": "DFPOP2W9-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-dfpop2w9-gb/fonts",
+      "cssName": "DFPOP2W9-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-dfpzongyiw7-gb",
+      "displayName": "DFPZongYiW7-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-dfpzongyiw7-gb/fonts",
+      "cssName": "DFPZongYiW7-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-dfpzongyiw9-gb",
+      "displayName": "DFPZongYiW9-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-dfpzongyiw9-gb/fonts",
+      "cssName": "DFPZongYiW9-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-droid-serif",
+      "displayName": "Droid Serif",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-droid-serif/fonts",
+      "cssName": "Droid Serif",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-edwardian-script-itc",
+      "displayName": "Edwardian Script ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-edwardian-script-itc/fonts",
+      "cssName": "Edwardian Script ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eggyfont-bala",
+      "displayName": "EggyFont Bala",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eggyfont-bala/fonts",
+      "cssName": "EggyFont Bala",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eggyfont-rua",
+      "displayName": "EggyFont Rua",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eggyfont-rua/fonts",
+      "cssName": "EggyFont Rua",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-elephant",
+      "displayName": "Elephant",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-elephant/fonts",
+      "cssName": "Elephant",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-engravers-mt",
+      "displayName": "Engravers MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-engravers-mt/fonts",
+      "cssName": "Engravers MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eras-bold-itc",
+      "displayName": "Eras Bold ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eras-bold-itc/fonts",
+      "cssName": "Eras Bold ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eras-demi-itc",
+      "displayName": "Eras Demi ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eras-demi-itc/fonts",
+      "cssName": "Eras Demi ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eras-light-itc",
+      "displayName": "Eras Light ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eras-light-itc/fonts",
+      "cssName": "Eras Light ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eras-medium-itc",
+      "displayName": "Eras Medium ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eras-medium-itc/fonts",
+      "cssName": "Eras Medium ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-eryatianxinti",
+      "displayName": "eryatianxinti",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-eryatianxinti/fonts",
+      "cssName": "eryatianxinti",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-felix-titling",
+      "displayName": "Felix Titling",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-felix-titling/fonts",
+      "cssName": "Felix Titling",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-footlight-mt-light",
+      "displayName": "Footlight MT Light",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-footlight-mt-light/fonts",
+      "cssName": "Footlight MT Light",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-forte",
+      "displayName": "Forte",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-forte/fonts",
+      "cssName": "Forte",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-franklin-gothic-heavy",
+      "displayName": "Franklin Gothic Heavy",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-franklin-gothic-heavy/fonts",
+      "cssName": "Franklin Gothic Heavy",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-franklin-gothic-medium",
+      "displayName": "Franklin Gothic Medium",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-franklin-gothic-medium/fonts",
+      "cssName": "Franklin Gothic Medium",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-franklin-gothic-medium-cond",
+      "displayName": "Franklin Gothic Medium Cond",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-franklin-gothic-medium-cond/fonts",
+      "cssName": "Franklin Gothic Medium Cond",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-freestyle-script",
+      "displayName": "Freestyle Script",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-freestyle-script/fonts",
+      "cssName": "Freestyle Script",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-french-script-mt",
+      "displayName": "French Script MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-french-script-mt/fonts",
+      "cssName": "French Script MT",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fsp-demo-chrchwrdtypstyllbdb",
+      "displayName": "FSP DEMO - ChrchwrdTypstyllBdb",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fsp-demo-chrchwrdtypstyllbdb/fonts",
+      "cssName": "FSP DEMO - ChrchwrdTypstyllBdb",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fz-pcl-font",
+      "displayName": "FZ_PCL_Font",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fz-pcl-font/fonts",
+      "cssName": "FZ_PCL_Font",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzbangshuxings-r-gb",
+      "displayName": "FZBangShuXingS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzbangshuxings-r-gb/fonts",
+      "cssName": "FZBangShuXingS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzbeiweikaishu-s19",
+      "displayName": "FZBeiWeiKaiShu-S19",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzbeiweikaishu-s19/fonts",
+      "cssName": "FZBeiWeiKaiShu-S19",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzcaiyuantis",
+      "displayName": "FZCaiYuanTiS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzcaiyuantis/fonts",
+      "cssName": "FZCaiYuanTiS",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzchaocuhei-m10s",
+      "displayName": "FZChaoCuHei-M10S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzchaocuhei-m10s/fonts",
+      "cssName": "FZChaoCuHei-M10S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzcuyuansongs-r-gb",
+      "displayName": "FZCuYuanSongS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzcuyuansongs-r-gb/fonts",
+      "cssName": "FZCuYuanSongS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzfeifantis",
+      "displayName": "FZFeiFanTiS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzfeifantis/fonts",
+      "cssName": "FZFeiFanTiS",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzfengyakaisongs",
+      "displayName": "FZFengYaKaiSongS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzfengyakaisongs/fonts",
+      "cssName": "FZFengYaKaiSongS",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzgufangs-r-gb",
+      "displayName": "FZGuFangS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzgufangs-r-gb/fonts",
+      "cssName": "FZGuFangS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjcxs",
+      "displayName": "FZJCXS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjcxs/fonts",
+      "cssName": "FZJCXS",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjdjw",
+      "displayName": "FZJDJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjdjw/fonts",
+      "cssName": "FZJDJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjiantis-r-gb",
+      "displayName": "FZJianTiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjiantis-r-gb/fonts",
+      "cssName": "FZJianTiS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjingheis-r-gb",
+      "displayName": "FZJingHeiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjingheis-r-gb/fonts",
+      "cssName": "FZJingHeiS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjingheishouxies-r-gb",
+      "displayName": "FZJingHeiShouXieS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjingheishouxies-r-gb/fonts",
+      "cssName": "FZJingHeiShouXieS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjinls-b-gb",
+      "displayName": "FZJinLS-B-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjinls-b-gb/fonts",
+      "cssName": "FZJinLS-B-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzjinls-l-gb",
+      "displayName": "FZJinLS-L-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzjinls-l-gb/fonts",
+      "cssName": "FZJinLS-L-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzkai-z03t",
+      "displayName": "FZKai-Z03T",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzkai-z03t/fonts",
+      "cssName": "FZKai-Z03T",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantinghei-db-gbk",
+      "displayName": "FZLanTingHei-DB-GBK",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantinghei-db-gbk/fonts",
+      "cssName": "FZLanTingHei-DB-GBK",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-b-gb",
+      "displayName": "FZLanTingHeiS-B-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-b-gb/fonts",
+      "cssName": "FZLanTingHeiS-B-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-db-gb",
+      "displayName": "FZLanTingHeiS-DB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-db-gb/fonts",
+      "cssName": "FZLanTingHeiS-DB-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-db1-gb",
+      "displayName": "FZLanTingHeiS-DB1-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-db1-gb/fonts",
+      "cssName": "FZLanTingHeiS-DB1-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-eb-gb",
+      "displayName": "FZLanTingHeiS-EB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-eb-gb/fonts",
+      "cssName": "FZLanTingHeiS-EB-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-el-gb",
+      "displayName": "FZLanTingHeiS-EL-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-el-gb/fonts",
+      "cssName": "FZLanTingHeiS-EL-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-h-gb",
+      "displayName": "FZLanTingHeiS-H-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-h-gb/fonts",
+      "cssName": "FZLanTingHeiS-H-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-hc-gb",
+      "displayName": "FZLanTingHeiS-HC-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-hc-gb/fonts",
+      "cssName": "FZLanTingHeiS-HC-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-hn-gb",
+      "displayName": "FZLanTingHeiS-HN-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-hn-gb/fonts",
+      "cssName": "FZLanTingHeiS-HN-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-l-gb",
+      "displayName": "FZLanTingHeiS-L-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-l-gb/fonts",
+      "cssName": "FZLanTingHeiS-L-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-m-gb",
+      "displayName": "FZLanTingHeiS-M-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-m-gb/fonts",
+      "cssName": "FZLanTingHeiS-M-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-r-gb",
+      "displayName": "FZLanTingHeiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-r-gb/fonts",
+      "cssName": "FZLanTingHeiS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-rc-gb",
+      "displayName": "FZLanTingHeiS-RC-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-rc-gb/fonts",
+      "cssName": "FZLanTingHeiS-RC-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-rn-gb",
+      "displayName": "FZLanTingHeiS-RN-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-rn-gb/fonts",
+      "cssName": "FZLanTingHeiS-RN-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingheis-ul-gb",
+      "displayName": "FZLanTingHeiS-UL-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingheis-ul-gb/fonts",
+      "cssName": "FZLanTingHeiS-UL-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-b-gb",
+      "displayName": "FZLanTingYuanS-B-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-b-gb/fonts",
+      "cssName": "FZLanTingYuanS-B-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-db-gb",
+      "displayName": "FZLanTingYuanS-DB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-db-gb/fonts",
+      "cssName": "FZLanTingYuanS-DB-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-db1-gb",
+      "displayName": "FZLanTingYuanS-DB1-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-db1-gb/fonts",
+      "cssName": "FZLanTingYuanS-DB1-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-eb-gb",
+      "displayName": "FZLanTingYuanS-EB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-eb-gb/fonts",
+      "cssName": "FZLanTingYuanS-EB-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-el-gb",
+      "displayName": "FZLanTingYuanS-EL-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-el-gb/fonts",
+      "cssName": "FZLanTingYuanS-EL-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-h-gb",
+      "displayName": "FZLanTingYuanS-H-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-h-gb/fonts",
+      "cssName": "FZLanTingYuanS-H-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-l-gb",
+      "displayName": "FZLanTingYuanS-L-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-l-gb/fonts",
+      "cssName": "FZLanTingYuanS-L-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-m-gb",
+      "displayName": "FZLanTingYuanS-M-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-m-gb/fonts",
+      "cssName": "FZLanTingYuanS-M-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlantingyuans-r-gb",
+      "displayName": "FZLanTingYuanS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlantingyuans-r-gb/fonts",
+      "cssName": "FZLanTingYuanS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlibian-s02s",
+      "displayName": "FZLiBian-S02S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlibian-s02s/fonts",
+      "cssName": "FZLiBian-S02S",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzlthpro-global",
+      "displayName": "FZLTHPro Global",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzlthpro-global/fonts",
+      "cssName": "FZLTHPro Global",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzmeihei-m07s",
+      "displayName": "FZMeiHei-M07S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzmeihei-m07s/fonts",
+      "cssName": "FZMeiHei-M07S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzmiaowus-r-gb",
+      "displayName": "FZMiaoWuS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzmiaowus-r-gb/fonts",
+      "cssName": "FZMiaoWuS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fznew-xiulib-z11",
+      "displayName": "FZNew XiuLiB-Z11",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fznew-xiulib-z11/fonts",
+      "cssName": "FZNew XiuLiB-Z11",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzpxjw",
+      "displayName": "FZPXJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzpxjw/fonts",
+      "cssName": "FZPXJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzqidis-r-gb",
+      "displayName": "FZQiDiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzqidis-r-gb/fonts",
+      "cssName": "FZQiDiS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzqingkebenyuesongs-r-gb",
+      "displayName": "FZQingKeBenYueSongS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzqingkebenyuesongs-r-gb/fonts",
+      "cssName": "FZQingKeBenYueSongS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzquheis-r-gb",
+      "displayName": "FZQuHeiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzquheis-r-gb/fonts",
+      "cssName": "FZQuHeiS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzqusongs-r-gb",
+      "displayName": "FZQuSongS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzqusongs-r-gb/fonts",
+      "cssName": "FZQuSongS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzruishuiyuns",
+      "displayName": "FZRuiShuiYunS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzruishuiyuns/fonts",
+      "cssName": "FZRuiShuiYunS",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzruizhengheis-eb-gb",
+      "displayName": "FZRuiZhengHeiS-EB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzruizhengheis-eb-gb/fonts",
+      "cssName": "FZRuiZhengHeiS-EB-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzrunbiansongs-r-gb",
+      "displayName": "FZRunBianSongS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzrunbiansongs-r-gb/fonts",
+      "cssName": "FZRunBianSongS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzshangkus-r-gb",
+      "displayName": "FZShangKuS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzshangkus-r-gb/fonts",
+      "cssName": "FZShangKuS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzshengshikaishus-db-gb",
+      "displayName": "FZShengShiKaiShuS-DB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzshengshikaishus-db-gb/fonts",
+      "cssName": "FZShengShiKaiShuS-DB-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzshengshikaishus-eb-gb",
+      "displayName": "FZShengShiKaiShuS-EB-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzshengshikaishus-eb-gb/fonts",
+      "cssName": "FZShengShiKaiShuS-EB-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzshengshikaishus-r-gb",
+      "displayName": "FZShengShiKaiShuS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzshengshikaishus-r-gb/fonts",
+      "cssName": "FZShengShiKaiShuS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzshuti",
+      "displayName": "FZShuTi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzshuti/fonts",
+      "cssName": "FZShuTi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzsongkebenxiukais-r-gb",
+      "displayName": "FZSongKeBenXiuKaiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzsongkebenxiukais-r-gb/fonts",
+      "cssName": "FZSongKeBenXiuKaiS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzsongkebenxiukait-r-gb",
+      "displayName": "FZSongKeBenXiuKaiT-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzsongkebenxiukait-r-gb/fonts",
+      "cssName": "FZSongKeBenXiuKaiT-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzsuxinshiliukais-r-gb",
+      "displayName": "FZSuXinShiLiuKaiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzsuxinshiliukais-r-gb/fonts",
+      "cssName": "FZSuXinShiLiuKaiS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fztanheis-b-gb",
+      "displayName": "FZTanHeiS-B-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fztanheis-b-gb/fonts",
+      "cssName": "FZTanHeiS-B-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fztanheit-b-gb",
+      "displayName": "FZTanHeiT-B-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fztanheit-b-gb/fonts",
+      "cssName": "FZTanHeiT-B-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fztljw",
+      "displayName": "FZTLJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fztljw/fonts",
+      "cssName": "FZTLJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzxianrens-r-gb",
+      "displayName": "FZXianRenS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzxianrens-r-gb/fonts",
+      "cssName": "FZXianRenS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzxiaozhuanti-s13t",
+      "displayName": "FZXiaoZhuanTi-S13T",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzxiaozhuanti-s13t/fonts",
+      "cssName": "FZXiaoZhuanTi-S13T",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzxiheii-z08s",
+      "displayName": "FZXiHeiI-Z08S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzxiheii-z08s/fonts",
+      "cssName": "FZXiHeiI-Z08S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzxingheis-r-gb",
+      "displayName": "FZXingHeiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzxingheis-r-gb/fonts",
+      "cssName": "FZXingHeiS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzxuanzhenzhuanbians-r-gb",
+      "displayName": "FZXuanZhenZhuanBianS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzxuanzhenzhuanbians-r-gb/fonts",
+      "cssName": "FZXuanZhenZhuanBianS-R-GB",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyansongs",
+      "displayName": "FZYanSongS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyansongs/fonts",
+      "cssName": "FZYanSongS",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyaoti",
+      "displayName": "FZYaoTi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyaoti/fonts",
+      "cssName": "FZYaoTi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyasongs-b-gb",
+      "displayName": "FZYaSongS-B-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyasongs-b-gb/fonts",
+      "cssName": "FZYaSongS-B-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyasongs-l-gb",
+      "displayName": "FZYaSongS-L-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyasongs-l-gb/fonts",
+      "cssName": "FZYaSongS-L-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyasongs-r-gb",
+      "displayName": "FZYaSongS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyasongs-r-gb/fonts",
+      "cssName": "FZYaSongS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyazhutifu",
+      "displayName": "FZYaZhuTiFU",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyazhutifu/fonts",
+      "cssName": "FZYaZhuTiFU",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzyazhutis",
+      "displayName": "FZYaZhuTiS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzyazhutis/fonts",
+      "cssName": "FZYaZhuTiS",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzangyihantis-r-gb",
+      "displayName": "FZZangYiHanTiS-R-GB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzangyihantis-r-gb/fonts",
+      "cssName": "FZZangYiHanTiS-R-GB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-cdmxkjw",
+      "displayName": "FZZJ-CDMXKJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-cdmxkjw/fonts",
+      "cssName": "FZZJ-CDMXKJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-fjcjw",
+      "displayName": "FZZJ-FJCJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-fjcjw/fonts",
+      "cssName": "FZZJ-FJCJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-hfhwfw",
+      "displayName": "FZZJ-HFHWFW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-hfhwfw/fonts",
+      "cssName": "FZZJ-HFHWFW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-hfhwjw",
+      "displayName": "FZZJ-HFHWJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-hfhwjw/fonts",
+      "cssName": "FZZJ-HFHWJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-hlyhxsjw",
+      "displayName": "FZZJ-HLYHXSJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-hlyhxsjw/fonts",
+      "cssName": "FZZJ-HLYHXSJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-mshlfw",
+      "displayName": "FZZJ-MSHLFW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-mshlfw/fonts",
+      "cssName": "FZZJ-MSHLFW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-mshljw",
+      "displayName": "FZZJ-MSHLJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-mshljw/fonts",
+      "cssName": "FZZJ-MSHLJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-qscsjsjw",
+      "displayName": "FZZJ-QSCSJSJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-qscsjsjw/fonts",
+      "cssName": "FZZJ-QSCSJSJW",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-ttmbjw",
+      "displayName": "FZZJ-TTMBJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-ttmbjw/fonts",
+      "cssName": "FZZJ-TTMBJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-ttybjw",
+      "displayName": "FZZJ-TTYBJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-ttybjw/fonts",
+      "cssName": "FZZJ-TTYBJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-xss",
+      "displayName": "FZZJ-XSS",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-xss/fonts",
+      "cssName": "FZZJ-XSS",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-zhybktjw",
+      "displayName": "FZZJ-ZHYBKTJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-zhybktjw/fonts",
+      "cssName": "FZZJ-ZHYBKTJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzj-zsxkjw",
+      "displayName": "FZZJ-ZSXKJW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzj-zsxkjw/fonts",
+      "cssName": "FZZJ-ZSXKJW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-fzzongyi-m05s",
+      "displayName": "FZZongYi-M05S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-fzzongyi-m05s/fonts",
+      "cssName": "FZZongYi-M05S",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-garamond",
+      "displayName": "Garamond",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-garamond/fonts",
+      "cssName": "Garamond",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-genkaimincho",
+      "displayName": "Genkaimincho",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-genkaimincho/fonts",
+      "cssName": "Genkaimincho",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gigi",
+      "displayName": "Gigi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gigi/fonts",
+      "cssName": "Gigi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gill-sans-mt",
+      "displayName": "Gill Sans MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gill-sans-mt/fonts",
+      "cssName": "Gill Sans MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gill-sans-mt-condensed",
+      "displayName": "Gill Sans MT Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gill-sans-mt-condensed/fonts",
+      "cssName": "Gill Sans MT Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gill-sans-mt-ext-condensed-bold",
+      "displayName": "Gill Sans MT Ext Condensed Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gill-sans-mt-ext-condensed-bold/fonts",
+      "cssName": "Gill Sans MT Ext Condensed Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gill-sans-ultra-bold-condensed",
+      "displayName": "Gill Sans Ultra Bold Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gill-sans-ultra-bold-condensed/fonts",
+      "cssName": "Gill Sans Ultra Bold Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gloucester-mt-extra-condensed",
+      "displayName": "Gloucester MT Extra Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gloucester-mt-extra-condensed/fonts",
+      "cssName": "Gloucester MT Extra Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-gongfanfengmangti",
+      "displayName": "gongfanfengmangti",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-gongfanfengmangti/fonts",
+      "cssName": "gongfanfengmangti",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-goudy-old-style",
+      "displayName": "Goudy Old Style",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-goudy-old-style/fonts",
+      "cssName": "Goudy Old Style",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-goudy-stout",
+      "displayName": "Goudy Stout",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-goudy-stout/fonts",
+      "cssName": "Goudy Stout",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-haettenschweiler",
+      "displayName": "Haettenschweiler",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-haettenschweiler/fonts",
+      "cssName": "Haettenschweiler",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hakusyukaisyoextrabold",
+      "displayName": "HakusyuKaisyoExtraBold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hakusyukaisyoextrabold/fonts",
+      "cssName": "HakusyuKaisyoExtraBold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-harlow-solid-italic",
+      "displayName": "Harlow Solid Italic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harlow-solid-italic/fonts",
+      "cssName": "Harlow Solid Italic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-harmonyos-sans-condensed-p1",
+      "displayName": "HarmonyOS Sans Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-condensed-p1/fonts",
+      "cssName": "HarmonyOS Sans Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-harmonyos-sans-condensed-p2",
+      "displayName": "HarmonyOS Sans Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-condensed-p2/fonts",
+      "cssName": "HarmonyOS Sans Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-harmonyos-sans-naskh-arabic",
+      "displayName": "HarmonyOS Sans Naskh Arabic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-naskh-arabic/fonts",
+      "cssName": "HarmonyOS Sans Naskh Arabic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-harmonyos-sans-naskh-arabic-ui",
+      "displayName": "HarmonyOS Sans Naskh Arabic UI",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-naskh-arabic-ui/fonts",
+      "cssName": "HarmonyOS Sans Naskh Arabic UI",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-harmonyos-sans-p1",
+      "displayName": "HarmonyOS Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-p1/fonts",
+      "cssName": "HarmonyOS Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-harmonyos-sans-p2",
+      "displayName": "HarmonyOS Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-p2/fonts",
+      "cssName": "HarmonyOS Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-harmonyos-sans-tc",
+      "displayName": "HarmonyOS Sans TC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harmonyos-sans-tc/fonts",
+      "cssName": "HarmonyOS Sans TC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-harrington",
+      "displayName": "Harrington",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-harrington/fonts",
+      "cssName": "Harrington",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hgjxt",
+      "displayName": "HGJXT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hgjxt/fonts",
+      "cssName": "HGJXT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-high-tower-text",
+      "displayName": "High Tower Text",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-high-tower-text/fonts",
+      "cssName": "High Tower Text",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-honglei-sim",
+      "displayName": "honglei sim",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honglei-sim/fonts",
+      "cssName": "honglei sim",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-honor-sans-brand-p1",
+      "displayName": "HONOR Sans Brand",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-brand-p1/fonts",
+      "cssName": "HONOR Sans Brand",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-honor-sans-brand-p2",
+      "displayName": "HONOR Sans Brand",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-brand-p2/fonts",
+      "cssName": "HONOR Sans Brand",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-honor-sans-cn-p1",
+      "displayName": "HONOR Sans CN",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-cn-p1/fonts",
+      "cssName": "HONOR Sans CN",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-honor-sans-cn-p2",
+      "displayName": "HONOR Sans CN",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-cn-p2/fonts",
+      "cssName": "HONOR Sans CN",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-honor-sans-p1",
+      "displayName": "HONOR Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-p1/fonts",
+      "cssName": "HONOR Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-honor-sans-p2",
+      "displayName": "HONOR Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-p2/fonts",
+      "cssName": "HONOR Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-honor-sans-tc-p1",
+      "displayName": "HONOR Sans TC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-tc-p1/fonts",
+      "cssName": "HONOR Sans TC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-honor-sans-tc-p2",
+      "displayName": "HONOR Sans TC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-honor-sans-tc-p2/fonts",
+      "cssName": "HONOR Sans TC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-huangkaihualawyerfont",
+      "displayName": "huangkaihuaLawyerfont",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-huangkaihualawyerfont/fonts",
+      "cssName": "huangkaihuaLawyerfont",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hwtext",
+      "displayName": "HWtext",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hwtext/fonts",
+      "cssName": "HWtext",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hybaiqingj",
+      "displayName": "HYBaiQingJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hybaiqingj/fonts",
+      "cssName": "HYBaiQingJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hychangsongj",
+      "displayName": "HYChangSongJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hychangsongj/fonts",
+      "cssName": "HYChangSongJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hycuyuanj",
+      "displayName": "HYCuYuanJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hycuyuanj/fonts",
+      "cssName": "HYCuYuanJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydalishuf",
+      "displayName": "HYDaLiShuF",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydalishuf/fonts",
+      "cssName": "HYDaLiShuF",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydalishuj",
+      "displayName": "HYDaLiShuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydalishuj/fonts",
+      "cssName": "HYDaLiShuJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydashengtij",
+      "displayName": "HYDaShengTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydashengtij/fonts",
+      "cssName": "HYDaShengTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydasongj",
+      "displayName": "HYDaSongJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydasongj/fonts",
+      "cssName": "HYDaSongJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydianyatij",
+      "displayName": "HYDianYaTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydianyatij/fonts",
+      "cssName": "HYDianYaTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydiwrgj",
+      "displayName": "HYDiWRGJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydiwrgj/fonts",
+      "cssName": "HYDiWRGJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hydiwurenge0407",
+      "displayName": "HYdiwurenge0407",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hydiwurenge0407/fonts",
+      "cssName": "HYdiwurenge0407",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyfanglij",
+      "displayName": "HYFangLiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyfanglij/fonts",
+      "cssName": "HYFangLiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyfangsongf",
+      "displayName": "HYFangSongF",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyfangsongf/fonts",
+      "cssName": "HYFangSongF",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hygangyiti-35j",
+      "displayName": "HYGangYiTi-35J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hygangyiti-35j/fonts",
+      "cssName": "HYGangYiTi-35J",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hygangyiti-65j",
+      "displayName": "HYGangYiTi-65J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hygangyiti-65j/fonts",
+      "cssName": "HYGangYiTi-65J",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hygangyiti-95j",
+      "displayName": "HYGangYiTi-95J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hygangyiti-95j/fonts",
+      "cssName": "HYGangYiTi-95J",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyhanshitij",
+      "displayName": "HYHanShiTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyhanshitij/fonts",
+      "cssName": "HYHanShiTiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyheilizhitij",
+      "displayName": "HYHeiLiZhiTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyheilizhitij/fonts",
+      "cssName": "HYHeiLiZhiTiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyheizaitij",
+      "displayName": "HYHeiZaiTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyheizaitij/fonts",
+      "cssName": "HYHeiZaiTiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyhelongxingshuj",
+      "displayName": "HYHeLongXingShuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyhelongxingshuj/fonts",
+      "cssName": "HYHeLongXingShuJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyjiashuj",
+      "displayName": "HYJiaShuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyjiashuj/fonts",
+      "cssName": "HYJiaShuJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyjinkaij",
+      "displayName": "HYJinKaiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyjinkaij/fonts",
+      "cssName": "HYJinKaiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hykaitij",
+      "displayName": "HYKaiTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hykaitij/fonts",
+      "cssName": "HYKaiTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyliliangheij",
+      "displayName": "HYLiLiangHeiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyliliangheij/fonts",
+      "cssName": "HYLiLiangHeiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hylingxinj",
+      "displayName": "HYLingXinJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hylingxinj/fonts",
+      "cssName": "HYLingXinJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyliuziheij",
+      "displayName": "HYLiuZiHeiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyliuziheij/fonts",
+      "cssName": "HYLiuZiHeiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hymiaohuntij",
+      "displayName": "HYMiaoHunTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hymiaohuntij/fonts",
+      "cssName": "HYMiaoHunTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hypinganxingcuj",
+      "displayName": "HYPingAnXingCuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hypinganxingcuj/fonts",
+      "cssName": "HYPingAnXingCuJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-105j",
+      "displayName": "HYQiHei-105J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-105j/fonts",
+      "cssName": "HYQiHei-105J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-25s",
+      "displayName": "HYQiHei-25S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-25s/fonts",
+      "cssName": "HYQiHei-25S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-30s",
+      "displayName": "HYQiHei-30S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-30s/fonts",
+      "cssName": "HYQiHei-30S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-35s",
+      "displayName": "HYQiHei-35S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-35s/fonts",
+      "cssName": "HYQiHei-35S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-40s",
+      "displayName": "HYQiHei-40S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-40s/fonts",
+      "cssName": "HYQiHei-40S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-45s",
+      "displayName": "HYQiHei-45S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-45s/fonts",
+      "cssName": "HYQiHei-45S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-50s",
+      "displayName": "HYQiHei-50S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-50s/fonts",
+      "cssName": "HYQiHei-50S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-55s",
+      "displayName": "HYQiHei-55S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-55s/fonts",
+      "cssName": "HYQiHei-55S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-60j",
+      "displayName": "HYQiHei-60J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-60j/fonts",
+      "cssName": "HYQiHei-60J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-60s",
+      "displayName": "HYQiHei-60S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-60s/fonts",
+      "cssName": "HYQiHei-60S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-65s",
+      "displayName": "HYQiHei-65S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-65s/fonts",
+      "cssName": "HYQiHei-65S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-70j",
+      "displayName": "HYQiHei-70J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-70j/fonts",
+      "cssName": "HYQiHei-70J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-70s",
+      "displayName": "HYQiHei-70S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-70s/fonts",
+      "cssName": "HYQiHei-70S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-75s",
+      "displayName": "HYQiHei-75S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-75s/fonts",
+      "cssName": "HYQiHei-75S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-80j",
+      "displayName": "HYQiHei-80J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-80j/fonts",
+      "cssName": "HYQiHei-80J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-80s",
+      "displayName": "HYQiHei-80S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-80s/fonts",
+      "cssName": "HYQiHei-80S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-85s",
+      "displayName": "HYQiHei-85S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-85s/fonts",
+      "cssName": "HYQiHei-85S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-90j",
+      "displayName": "HYQiHei-90J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-90j/fonts",
+      "cssName": "HYQiHei-90J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-90s",
+      "displayName": "HYQiHei-90S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-90s/fonts",
+      "cssName": "HYQiHei-90S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqihei-95s",
+      "displayName": "HYQiHei-95S",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqihei-95s/fonts",
+      "cssName": "HYQiHei-95S",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqiheix4-35j",
+      "displayName": "HYQiHeiX4-35J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqiheix4-35j/fonts",
+      "cssName": "HYQiHeiX4-35J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqiheix4-55j",
+      "displayName": "HYQiHeiX4-55J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqiheix4-55j/fonts",
+      "cssName": "HYQiHeiX4-55J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqiheix4-75j",
+      "displayName": "HYQiHeiX4-75J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqiheix4-75j/fonts",
+      "cssName": "HYQiHeiX4-75J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqiheix4-95j",
+      "displayName": "HYQiHeiX4-95J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqiheix4-95j/fonts",
+      "cssName": "HYQiHeiX4-95J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyqingyatij",
+      "displayName": "HYQingYaTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyqingyatij/fonts",
+      "cssName": "HYQingYaTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyruiyisongj",
+      "displayName": "HYRuiYiSongJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyruiyisongj/fonts",
+      "cssName": "HYRuiYiSongJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyrunyuan-35j",
+      "displayName": "HYRunYuan-35J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyrunyuan-35j/fonts",
+      "cssName": "HYRunYuan-35J",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyrunyuan-55j",
+      "displayName": "HYRunYuan-55J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyrunyuan-55j/fonts",
+      "cssName": "HYRunYuan-55J",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyrunyuan-75j",
+      "displayName": "HYRunYuan-75J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyrunyuan-75j/fonts",
+      "cssName": "HYRunYuan-75J",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyshangweishoushuj",
+      "displayName": "HYShangWeiShouShuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyshangweishoushuj/fonts",
+      "cssName": "HYShangWeiShouShuJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyshangweishoushuw",
+      "displayName": "HYShangWeiShouShuW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyshangweishoushuw/fonts",
+      "cssName": "HYShangWeiShouShuW",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyshengongj",
+      "displayName": "HYShenGongJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyshengongj/fonts",
+      "cssName": "HYShenGongJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyshoujinshuj",
+      "displayName": "HYShouJinShuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyshoujinshuj/fonts",
+      "cssName": "HYShouJinShuJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyshuhunj",
+      "displayName": "HYShuHunJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyshuhunj/fonts",
+      "cssName": "HYShuHunJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hytiaotiaotij",
+      "displayName": "HYTiaoTiaoTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hytiaotiaotij/fonts",
+      "cssName": "HYTiaoTiaoTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyweibeij",
+      "displayName": "HYWeiBeiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyweibeij/fonts",
+      "cssName": "HYWeiBeiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyxiaobomeiyantij",
+      "displayName": "HYXiaoBoMeiYanTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyxiaobomeiyantij/fonts",
+      "cssName": "HYXiaoBoMeiYanTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyxiaobozhezhitij",
+      "displayName": "HYXiaoBoZheZhiTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyxiaobozhezhitij/fonts",
+      "cssName": "HYXiaoBoZheZhiTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyxiaolishuj",
+      "displayName": "HYXiaoLiShuJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyxiaolishuj/fonts",
+      "cssName": "HYXiaoLiShuJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyxiaomaitij",
+      "displayName": "HYXiaoMaiTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyxiaomaitij/fonts",
+      "cssName": "HYXiaoMaiTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyxingkaij",
+      "displayName": "HYXingKaiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyxingkaij/fonts",
+      "cssName": "HYXingKaiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyxinrenwensongj",
+      "displayName": "HYXinRenWenSongJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyxinrenwensongj/fonts",
+      "cssName": "HYXinRenWenSongJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyyakuhei-45j",
+      "displayName": "HYYaKuHei-45J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyyakuhei-45j/fonts",
+      "cssName": "HYYaKuHei-45J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyyakuhei-85j",
+      "displayName": "HYYaKuHei-85J",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyyakuhei-85j/fonts",
+      "cssName": "HYYaKuHei-85J",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyyankaij",
+      "displayName": "HYYanKaiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyyankaij/fonts",
+      "cssName": "HYYanKaiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyyininglif",
+      "displayName": "HYYiNingLiF",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyyininglif/fonts",
+      "cssName": "HYYiNingLiF",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyyininglij",
+      "displayName": "HYYiNingLiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyyininglij/fonts",
+      "cssName": "HYYiNingLiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyzhongheij",
+      "displayName": "HYZhongHeiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyzhongheij/fonts",
+      "cssName": "HYZhongHeiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyzhuanshuf",
+      "displayName": "HYZhuanShuF",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyzhuanshuf/fonts",
+      "cssName": "HYZhuanShuF",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyzhuzichaorantij",
+      "displayName": "HYZhuZiChaoRanTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyzhuzichaorantij/fonts",
+      "cssName": "HYZhuZiChaoRanTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyzhuzichaorantiw",
+      "displayName": "HYZhuZiChaoRanTiW",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyzhuzichaorantiw/fonts",
+      "cssName": "HYZhuZiChaoRanTiW",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyzhuzimeixintij",
+      "displayName": "HYZhuZiMeiXinTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyzhuzimeixintij/fonts",
+      "cssName": "HYZhuZiMeiXinTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-hyzhuzitongniantij",
+      "displayName": "HYZhuZiTongNianTiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-hyzhuzitongniantij/fonts",
+      "cssName": "HYZhuZiTongNianTiJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-imprint-mt-shadow",
+      "displayName": "Imprint MT Shadow",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-imprint-mt-shadow/fonts",
+      "cssName": "Imprint MT Shadow",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-indie-flower",
+      "displayName": "Indie Flower",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-indie-flower/fonts",
+      "cssName": "Indie Flower",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-informal-roman",
+      "displayName": "Informal Roman",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-informal-roman/fonts",
+      "cssName": "Informal Roman",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-ink-free",
+      "displayName": "Ink Free",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-ink-free/fonts",
+      "cssName": "Ink Free",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-jokerman",
+      "displayName": "Jokerman",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-jokerman/fonts",
+      "cssName": "Jokerman",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-juice-itc",
+      "displayName": "Juice ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-juice-itc/fonts",
+      "cssName": "Juice ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-kristen-itc",
+      "displayName": "Kristen ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-kristen-itc/fonts",
+      "cssName": "Kristen ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-kunstler-script",
+      "displayName": "Kunstler Script",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-kunstler-script/fonts",
+      "cssName": "Kunstler Script",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-leelawadee-ui",
+      "displayName": "Leelawadee UI",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-leelawadee-ui/fonts",
+      "cssName": "Leelawadee UI",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-leelawadee-ui-semilight",
+      "displayName": "Leelawadee UI Semilight",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-leelawadee-ui-semilight/fonts",
+      "cssName": "Leelawadee UI Semilight",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lobster",
+      "displayName": "Lobster",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lobster/fonts",
+      "cssName": "Lobster",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-bright",
+      "displayName": "Lucida Bright",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-bright/fonts",
+      "cssName": "Lucida Bright",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-calligraphy",
+      "displayName": "Lucida Calligraphy",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-calligraphy/fonts",
+      "cssName": "Lucida Calligraphy",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-fax",
+      "displayName": "Lucida Fax",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-fax/fonts",
+      "cssName": "Lucida Fax",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-handwriting",
+      "displayName": "Lucida Handwriting",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-handwriting/fonts",
+      "cssName": "Lucida Handwriting",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-sans",
+      "displayName": "Lucida Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-sans/fonts",
+      "cssName": "Lucida Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-sans-typewriter",
+      "displayName": "Lucida Sans Typewriter",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-sans-typewriter/fonts",
+      "cssName": "Lucida Sans Typewriter",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-lucida-sans-unicode",
+      "displayName": "Lucida Sans Unicode",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-lucida-sans-unicode/fonts",
+      "cssName": "Lucida Sans Unicode",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-magneto",
+      "displayName": "Magneto",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-magneto/fonts",
+      "cssName": "Magneto",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-maiandra-gd",
+      "displayName": "Maiandra GD",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-maiandra-gd/fonts",
+      "cssName": "Maiandra GD",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-maokenassortedsans",
+      "displayName": "MaokenAssortedSans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-maokenassortedsans/fonts",
+      "cssName": "MaokenAssortedSans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-matura-mt-script-capitals",
+      "displayName": "Matura MT Script Capitals",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-matura-mt-script-capitals/fonts",
+      "cssName": "Matura MT Script Capitals",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-microsoft-tai-le",
+      "displayName": "Microsoft Tai Le",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-microsoft-tai-le/fonts",
+      "cssName": "Microsoft Tai Le",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-microsoft-uighur",
+      "displayName": "Microsoft Uighur",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-microsoft-uighur/fonts",
+      "cssName": "Microsoft Uighur",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-mingliu-extb",
+      "displayName": "MingLiU-ExtB",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-mingliu-extb/fonts",
+      "cssName": "MingLiU-ExtB",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-misans-latin-p1",
+      "displayName": "MiSans Latin",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-misans-latin-p1/fonts",
+      "cssName": "MiSans Latin",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-misans-latin-p2",
+      "displayName": "MiSans Latin",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-misans-latin-p2/fonts",
+      "cssName": "MiSans Latin",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-misans-p1",
+      "displayName": "MiSans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-misans-p1/fonts",
+      "cssName": "MiSans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 1）"
+    },
+    {
+      "id": "root-misans-p2",
+      "displayName": "MiSans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-misans-p2/fonts",
+      "cssName": "MiSans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组（分桶 2）"
+    },
+    {
+      "id": "root-mistral",
+      "displayName": "Mistral",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-mistral/fonts",
+      "cssName": "Mistral",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-modern",
+      "displayName": "modern",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-modern/fonts",
+      "cssName": "modern",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-modern-no-20",
+      "displayName": "Modern No. 20",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-modern-no-20/fonts",
+      "cssName": "Modern No. 20",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-monotype-corsiva",
+      "displayName": "Monotype Corsiva",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-monotype-corsiva/fonts",
+      "cssName": "Monotype Corsiva",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-ms-gothic",
+      "displayName": "MS Gothic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-ms-gothic/fonts",
+      "cssName": "MS Gothic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-mstiffheiprc",
+      "displayName": "MStiffHeiPRC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-mstiffheiprc/fonts",
+      "cssName": "MStiffHeiPRC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-mv-boli",
+      "displayName": "MV Boli",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-mv-boli/fonts",
+      "cssName": "MV Boli",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-niagara-engraved",
+      "displayName": "Niagara Engraved",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-niagara-engraved/fonts",
+      "cssName": "Niagara Engraved",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-niagara-solid",
+      "displayName": "Niagara Solid",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-niagara-solid/fonts",
+      "cssName": "Niagara Solid",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-nokia-font-yanti",
+      "displayName": "Nokia Font YanTi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-nokia-font-yanti/fonts",
+      "cssName": "Nokia Font YanTi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-black",
+      "displayName": "Noto Sans S Chinese Black",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-black/fonts",
+      "cssName": "Noto Sans S Chinese Black",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-bold",
+      "displayName": "Noto Sans S Chinese Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-bold/fonts",
+      "cssName": "Noto Sans S Chinese Bold",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-demilight",
+      "displayName": "Noto Sans S Chinese DemiLight",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-demilight/fonts",
+      "cssName": "Noto Sans S Chinese DemiLight",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-light",
+      "displayName": "Noto Sans S Chinese Light",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-light/fonts",
+      "cssName": "Noto Sans S Chinese Light",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-medium",
+      "displayName": "Noto Sans S Chinese Medium",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-medium/fonts",
+      "cssName": "Noto Sans S Chinese Medium",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-regular",
+      "displayName": "Noto Sans S Chinese Regular",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-regular/fonts",
+      "cssName": "Noto Sans S Chinese Regular",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-sans-s-chinese-thin",
+      "displayName": "Noto Sans S Chinese Thin",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-sans-s-chinese-thin/fonts",
+      "cssName": "Noto Sans S Chinese Thin",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-serif-cjk-sc",
+      "displayName": "Noto Serif CJK SC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-serif-cjk-sc/fonts",
+      "cssName": "Noto Serif CJK SC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-serif-cjk-sc-medium",
+      "displayName": "Noto Serif CJK SC Medium",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-serif-cjk-sc-medium/fonts",
+      "cssName": "Noto Serif CJK SC Medium",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-noto-serif-cjk-sc-semibold",
+      "displayName": "Noto Serif CJK SC SemiBold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-noto-serif-cjk-sc-semibold/fonts",
+      "cssName": "Noto Serif CJK SC SemiBold",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-ocr-a-extended",
+      "displayName": "OCR A Extended",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-ocr-a-extended/fonts",
+      "cssName": "OCR A Extended",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-old-english-text-mt",
+      "displayName": "Old English Text MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-old-english-text-mt/fonts",
+      "cssName": "Old English Text MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-onyx",
+      "displayName": "Onyx",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-onyx/fonts",
+      "cssName": "Onyx",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-open-sans",
+      "displayName": "Open Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-open-sans/fonts",
+      "cssName": "Open Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-oplus-sans-sc-3-5",
+      "displayName": "OPlus Sans SC 3.5",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-oplus-sans-sc-3-5/fonts",
+      "cssName": "OPlus Sans SC 3.5",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-oppo-sans",
+      "displayName": "OPPO Sans",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-oppo-sans/fonts",
+      "cssName": "OPPO Sans",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-oppo-sans-4-0",
+      "displayName": "OPPO Sans 4.0",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-oppo-sans-4-0/fonts",
+      "cssName": "OPPO Sans 4.0",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-oppo-sans-4-0-en",
+      "displayName": "OPPO Sans 4.0 EN",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-oppo-sans-4-0-en/fonts",
+      "cssName": "OPPO Sans 4.0 EN",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-oppo-sans-4-0-sc",
+      "displayName": "OPPO Sans 4.0 SC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-oppo-sans-4-0-sc/fonts",
+      "cssName": "OPPO Sans 4.0 SC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-oppo-sans-4-0-tc",
+      "displayName": "OPPO Sans 4.0 TC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-oppo-sans-4-0-tc/fonts",
+      "cssName": "OPPO Sans 4.0 TC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-2-0",
+      "displayName": "OPPOSans 2.0",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-2-0/fonts",
+      "cssName": "OPPOSans 2.0",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-2-0-extlt",
+      "displayName": "OPPOSans 2.0 ExtLt",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-2-0-extlt/fonts",
+      "cssName": "OPPOSans 2.0 ExtLt",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-2-0-light",
+      "displayName": "OPPOSans 2.0 Light",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-2-0-light/fonts",
+      "cssName": "OPPOSans 2.0 Light",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-2-0-med",
+      "displayName": "OPPOSans 2.0 Med",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-2-0-med/fonts",
+      "cssName": "OPPOSans 2.0 Med",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-2-14-novf-medium",
+      "displayName": "OPPOSans 2.14 NoVF Medium",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-2-14-novf-medium/fonts",
+      "cssName": "OPPOSans 2.14 NoVF Medium",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-b",
+      "displayName": "OPPOSans B",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-b/fonts",
+      "cssName": "OPPOSans B",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-opposans-m",
+      "displayName": "OPPOSans M",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-opposans-m/fonts",
+      "cssName": "OPPOSans M",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-palace-script-mt",
+      "displayName": "Palace Script MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-palace-script-mt/fonts",
+      "cssName": "Palace Script MT",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-papyrus",
+      "displayName": "Papyrus",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-papyrus/fonts",
+      "cssName": "Papyrus",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-parchment",
+      "displayName": "Parchment",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-parchment/fonts",
+      "cssName": "Parchment",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-perpetua",
+      "displayName": "Perpetua",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-perpetua/fonts",
+      "cssName": "Perpetua",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-pingfang-sc",
+      "displayName": "PingFang SC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-pingfang-sc/fonts",
+      "cssName": "PingFang SC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-playbill",
+      "displayName": "Playbill",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-playbill/fonts",
+      "cssName": "Playbill",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-poiret-one",
+      "displayName": "Poiret One",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-poiret-one/fonts",
+      "cssName": "Poiret One",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-poor-richard",
+      "displayName": "Poor Richard",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-poor-richard/fonts",
+      "cssName": "Poor Richard",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-pristina",
+      "displayName": "Pristina",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-pristina/fonts",
+      "cssName": "Pristina",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-rage-italic",
+      "displayName": "Rage Italic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-rage-italic/fonts",
+      "cssName": "Rage Italic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-raleway",
+      "displayName": "Raleway",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-raleway/fonts",
+      "cssName": "Raleway",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-ravie",
+      "displayName": "Ravie",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-ravie/fonts",
+      "cssName": "Ravie",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-roboto",
+      "displayName": "Roboto",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-roboto/fonts",
+      "cssName": "Roboto",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-roboto-condensed",
+      "displayName": "Roboto Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-roboto-condensed/fonts",
+      "cssName": "Roboto Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-roboto-slab",
+      "displayName": "Roboto Slab",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-roboto-slab/fonts",
+      "cssName": "Roboto Slab",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-rockwell",
+      "displayName": "Rockwell",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-rockwell/fonts",
+      "cssName": "Rockwell",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-rockwell-condensed",
+      "displayName": "Rockwell Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-rockwell-condensed/fonts",
+      "cssName": "Rockwell Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-rockwell-extra-bold",
+      "displayName": "Rockwell Extra Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-rockwell-extra-bold/fonts",
+      "cssName": "Rockwell Extra Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-roman",
+      "displayName": "roman",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-roman/fonts",
+      "cssName": "roman",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-samurai",
+      "displayName": "Samurai",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-samurai/fonts",
+      "cssName": "Samurai",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-script",
+      "displayName": "script",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-script/fonts",
+      "cssName": "script",
+      "script": "cjk",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-script-mt-bold",
+      "displayName": "Script MT Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-script-mt-bold/fonts",
+      "cssName": "Script MT Bold",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-serife",
+      "displayName": "serife",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-serife/fonts",
+      "cssName": "serife",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-shanhainiunaibobo-w",
+      "displayName": "ShanHaiNiuNaiBoBo W",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-shanhainiunaibobo-w/fonts",
+      "cssName": "ShanHaiNiuNaiBoBo W",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-showcard-gothic",
+      "displayName": "Showcard Gothic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-showcard-gothic/fonts",
+      "cssName": "Showcard Gothic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-shunpu",
+      "displayName": "Shunpu",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-shunpu/fonts",
+      "cssName": "Shunpu",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-simhei",
+      "displayName": "SimHei",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-simhei/fonts",
+      "cssName": "SimHei",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-sitka-small",
+      "displayName": "Sitka Small",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-sitka-small/fonts",
+      "cssName": "Sitka Small",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-smalle",
+      "displayName": "smalle",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-smalle/fonts",
+      "cssName": "smalle",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-snap-itc",
+      "displayName": "Snap ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-snap-itc/fonts",
+      "cssName": "Snap ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-source-han-serif-sc",
+      "displayName": "Source Han Serif SC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-source-han-serif-sc/fonts",
+      "cssName": "Source Han Serif SC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-sserife",
+      "displayName": "sserife",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-sserife/fonts",
+      "cssName": "sserife",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-stcaiyun",
+      "displayName": "STCaiyun",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stcaiyun/fonts",
+      "cssName": "STCaiyun",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stencil",
+      "displayName": "Stencil",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stencil/fonts",
+      "cssName": "Stencil",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stfangsong",
+      "displayName": "STFangsong",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stfangsong/fonts",
+      "cssName": "STFangsong",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-sthupo",
+      "displayName": "STHupo",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-sthupo/fonts",
+      "cssName": "STHupo",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stkaiti",
+      "displayName": "STKaiti",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stkaiti/fonts",
+      "cssName": "STKaiti",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stliti",
+      "displayName": "STLiti",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stliti/fonts",
+      "cssName": "STLiti",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stsong",
+      "displayName": "STSong",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stsong/fonts",
+      "cssName": "STSong",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stxihei",
+      "displayName": "STXihei",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stxihei/fonts",
+      "cssName": "STXihei",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stxingkai",
+      "displayName": "STXingkai",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stxingkai/fonts",
+      "cssName": "STXingkai",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stxinwei",
+      "displayName": "STXinwei",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stxinwei/fonts",
+      "cssName": "STXinwei",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-stzhongsong",
+      "displayName": "STZhongsong",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-stzhongsong/fonts",
+      "cssName": "STZhongsong",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-svgafix",
+      "displayName": "svgafix",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-svgafix/fonts",
+      "cssName": "svgafix",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-svgasys",
+      "displayName": "svgasys",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-svgasys/fonts",
+      "cssName": "svgasys",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-swei-spring-cjktc",
+      "displayName": "Swei Spring CJKtc",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-swei-spring-cjktc/fonts",
+      "cssName": "Swei Spring CJKtc",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-swei-spring-sugar-cjktc",
+      "displayName": "Swei Spring Sugar CJKtc",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-swei-spring-sugar-cjktc/fonts",
+      "cssName": "Swei Spring Sugar CJKtc",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-tempus-sans-itc",
+      "displayName": "Tempus Sans ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-tempus-sans-itc/fonts",
+      "cssName": "Tempus Sans ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-tencentsans-w7",
+      "displayName": "TencentSans W7",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-tencentsans-w7/fonts",
+      "cssName": "TencentSans W7",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-tensentype-xichaoheij",
+      "displayName": "Tensentype XiChaoHeiJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-tensentype-xichaoheij/fonts",
+      "cssName": "Tensentype XiChaoHeiJ",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-togalite-bold",
+      "displayName": "Togalite Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-togalite-bold/fonts",
+      "cssName": "Togalite Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-togalite-heavy",
+      "displayName": "Togalite Heavy",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-togalite-heavy/fonts",
+      "cssName": "Togalite Heavy",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-togalite-medium",
+      "displayName": "Togalite Medium",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-togalite-medium/fonts",
+      "cssName": "Togalite Medium",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-tw-cen-mt",
+      "displayName": "Tw Cen MT",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-tw-cen-mt/fonts",
+      "cssName": "Tw Cen MT",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-tw-cen-mt-condensed",
+      "displayName": "Tw Cen MT Condensed",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-tw-cen-mt-condensed/fonts",
+      "cssName": "Tw Cen MT Condensed",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-tw-cen-mt-condensed-extra-bold",
+      "displayName": "Tw Cen MT Condensed Extra Bold",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-tw-cen-mt-condensed-extra-bold/fonts",
+      "cssName": "Tw Cen MT Condensed Extra Bold",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-u5font-black",
+      "displayName": "U5Font Black",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-u5font-black/fonts",
+      "cssName": "U5Font Black",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-u5font-round",
+      "displayName": "U5Font Round",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-u5font-round/fonts",
+      "cssName": "U5Font Round",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-unknown",
+      "displayName": "_______ __",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-unknown/fonts",
+      "cssName": "_______ __",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-unknown-n2",
+      "displayName": "__正道__体免_版",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-unknown-n2/fonts",
+      "cssName": "__正道__体免_版",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-uranus-pixel-11px",
+      "displayName": "Uranus Pixel 11Px",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-uranus-pixel-11px/fonts",
+      "cssName": "Uranus Pixel 11Px",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-vga936",
+      "displayName": "vga936",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-vga936/fonts",
+      "cssName": "vga936",
+      "script": "none",
+      "skipBuild": true,
+      "note": "仅含FON位图格式，无法通过当前流水线生成WOFF2，保留库存不设dist产物"
+    },
+    {
+      "id": "root-viner-hand-itc",
+      "displayName": "Viner Hand ITC",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-viner-hand-itc/fonts",
+      "cssName": "Viner Hand ITC",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-vivaldi",
+      "displayName": "Vivaldi",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-vivaldi/fonts",
+      "cssName": "Vivaldi",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-vivo-sans-sc-400",
+      "displayName": "vivo Sans SC 400",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-vivo-sans-sc-400/fonts",
+      "cssName": "vivo Sans SC 400",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-vivo-sans-sc-500",
+      "displayName": "vivo Sans SC 500",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-vivo-sans-sc-500/fonts",
+      "cssName": "vivo Sans SC 500",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-vivo-sans-sc-vf",
+      "displayName": "vivo Sans SC VF",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-vivo-sans-sc-vf/fonts",
+      "cssName": "vivo Sans SC VF",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-vladimir-script",
+      "displayName": "Vladimir Script",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-vladimir-script/fonts",
+      "cssName": "Vladimir Script",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-wide-latin",
+      "displayName": "Wide Latin",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-wide-latin/fonts",
+      "cssName": "Wide Latin",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-yefontgangfengsong",
+      "displayName": "YEFONTGangFengSong",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-yefontgangfengsong/fonts",
+      "cssName": "YEFONTGangFengSong",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-youshebiaotihei",
+      "displayName": "YouSheBiaoTiHei",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-youshebiaotihei/fonts",
+      "cssName": "YouSheBiaoTiHei",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-youyuan",
+      "displayName": "YouYuan",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-youyuan/fonts",
+      "cssName": "YouYuan",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-yu-gothic",
+      "displayName": "Yu Gothic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-yu-gothic/fonts",
+      "cssName": "Yu Gothic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-yu-gothic-light",
+      "displayName": "Yu Gothic Light",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-yu-gothic-light/fonts",
+      "cssName": "Yu Gothic Light",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-yu-gothic-medium",
+      "displayName": "Yu Gothic Medium",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-yu-gothic-medium/fonts",
+      "cssName": "Yu Gothic Medium",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zerogothic",
+      "displayName": "ZeroGothic",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zerogothic/fonts",
+      "cssName": "ZeroGothic",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zhjbt-xjhzj",
+      "displayName": "ZHJBT-XJHZJ",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zhjbt-xjhzj/fonts",
+      "cssName": "ZHJBT-XJHZJ",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zihun197hao-damingsong-huaijiuban",
+      "displayName": "zihun197hao-damingsong(huaijiuban)",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zihun197hao-damingsong-huaijiuban/fonts",
+      "cssName": "zihun197hao-damingsong(huaijiuban)",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zihunshiguangjiyiti-trial",
+      "displayName": "zihunshiguangjiyiti_trial",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zihunshiguangjiyiti-trial/fonts",
+      "cssName": "zihunshiguangjiyiti_trial",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zixiaohuncanglangxingkai",
+      "displayName": "zixiaohuncanglangxingkai",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zixiaohuncanglangxingkai/fonts",
+      "cssName": "zixiaohuncanglangxingkai",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zixiaohunfanhangti-trial",
+      "displayName": "zixiaohunfanhangti_trial",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zixiaohunfanhangti-trial/fonts",
+      "cssName": "zixiaohunfanhangti_trial",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zixiaohungangtiehei",
+      "displayName": "zixiaohungangtiehei",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zixiaohungangtiehei/fonts",
+      "cssName": "zixiaohungangtiehei",
+      "script": "cjk",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    },
+    {
+      "id": "root-zixiaohungongluti",
+      "displayName": "zixiaohungongluti",
+      "licenseId": "project-approved",
+      "sourceSubdir": "root-zixiaohungongluti/fonts",
+      "cssName": "zixiaohungongluti",
+      "script": "none",
+      "skipBuild": false,
+      "note": "自根目录按名称表族名归组"
+    }
+  ]
+}
